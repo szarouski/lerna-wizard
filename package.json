@@ -31,7 +31,7 @@
     "babel-cli": "^6.18.0",
     "babel-jest": "^18.0.0",
     "babel-preset-latest": "^6.6.0",
-    "coveralls": "^2.11.15",
+    "coveralls": "^3.0.0",
     "jest": "^19.0.2",
     "rimraf": "^2.5.4"
   },
